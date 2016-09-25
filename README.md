@@ -6,6 +6,7 @@ a Stack Overflow question</a>.
 == SETUP ==
 
 ```
+bundle install
 rake db:setup
 rails console
 ```
