@@ -1,0 +1,13 @@
+== README ==
+
+Example app for <a href="http://stackoverflow.com/questions/39359361/why-does-rails-to-a-mess-with-the-order-of-a-has-many-association/39662534?noredirect=1#comment66660851_39662534">
+a Stack Overflow question</a>.
+
+== SETUP ==
+
+```
+rake db:setup
+rails console
+```
+
+Then try the following commands.
